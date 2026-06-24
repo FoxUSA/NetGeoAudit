@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="NetGeoAudit logo" width="120" />
+<img src="assets/netgeoaudit-logo.png" alt="NetGeoAudit logo" width="120" />
 
 # NetGeoAudit
 
